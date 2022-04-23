@@ -1,0 +1,733 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Recurring Appointments (Add-on)\n"
+"Language: pt\n"
+
+#: 
+msgid "pages with another time"
+msgstr "páginas com outra hora"
+
+#: 
+msgid "Edit"
+msgstr "Editar"
+
+#: 
+msgid "Remove"
+msgstr "Remover"
+
+#: 
+msgid "Restore"
+msgstr "Recuperar"
+
+#: 
+msgid "View Series"
+msgstr "Ver série"
+
+#: 
+msgid "Back"
+msgstr "Voltar"
+
+#: 
+msgid "Next"
+msgstr "Seguinte"
+
+#: 
+msgid "Some of the desired time slots are busy. System offers the nearest time slot instead. Click the Edit button to select another time if needed."
+msgstr "Alguns dos intervalos de tempo desejados estão ocupados. O sistema oferece o intervalo de tempo mais próximo. Clique no botão Editar para selecionar outra hora, se necessário."
+
+#: 
+msgid "Deleted"
+msgstr "Deletado"
+
+#: 
+msgid "Another time"
+msgstr "Outra hora"
+
+#: 
+msgid "Delete"
+msgstr "Deletar"
+
+#: 
+msgid "Apply"
+msgstr "Aplicar"
+
+#: 
+msgid "Another time was offered on pages"
+msgstr "Outro horário foi oferecido nas páginas"
+
+#: 
+msgid "Repeat this appointment"
+msgstr "Repita este compromisso"
+
+#: 
+msgid "Repeat"
+msgstr "Repetir"
+
+#: 
+msgid "Daily"
+msgstr "Diariamente"
+
+#: 
+msgid "Weekly"
+msgstr "Semanal"
+
+#: 
+msgid "Biweekly"
+msgstr "Quinzenal"
+
+#: 
+msgid "Monthly"
+msgstr "Mensal"
+
+#: 
+msgid "Every"
+msgstr "Cada"
+
+#: 
+msgid "day(s)"
+msgstr "dia(s)"
+
+#: 
+msgid "On"
+msgstr "Em"
+
+#: 
+msgid "Specific day"
+msgstr "Dia específico"
+
+#: 
+msgid "First"
+msgstr "Primeiro"
+
+#: 
+msgid "Second"
+msgstr "Segundo"
+
+#: 
+msgid "Third"
+msgstr "Terceiro"
+
+#: 
+msgid "Fourth"
+msgstr "Quarto"
+
+#: 
+msgid "Last"
+msgstr "Último"
+
+#: 
+msgid "Until"
+msgstr "Até"
+
+#: 
+msgid "Delete Appointment"
+msgstr "Deletar compromisso"
+
+#: 
+msgid "Delete only this appointment"
+msgstr "Deletar apenas este compromisso"
+
+#: 
+msgid "Delete this and the following appointments"
+msgstr "Deletar este e os seguintes compromissos"
+
+#: 
+msgid "Delete all appointments in series"
+msgstr "Deletar todos os compromissos em série"
+
+#: 
+msgid "Send notifications"
+msgstr "Enviar notificações"
+
+#: 
+msgid "Cancellation reason (optional)"
+msgstr "Motivo do cancelamento (opcional)"
+
+#: 
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: 
+msgid "Close"
+msgstr "Fechar"
+
+#: 
+msgid "Recurring appointments"
+msgstr "Compromissos recorrentes"
+
+#: 
+msgid "Allow this service to have recurring appointments."
+msgstr "Permitir que este serviço tenha compromissos recorrentes."
+
+#: 
+msgid "Disabled"
+msgstr "Desativado"
+
+#: 
+msgid "Enabled"
+msgstr "Ativado"
+
+#: 
+msgid "Frequencies"
+msgstr "Frequências"
+
+#: 
+msgid "All"
+msgstr "Todos"
+
+#: 
+msgid "Nothing selected"
+msgstr "Nada selecionado"
+
+#: 
+msgid "recurring appointments schedule"
+msgstr "lista de compromisso recorrentes"
+
+#: 
+msgid "recurring appointments schedule with cancel"
+msgstr "lista de compromissos recorrentes com cancelamento"
+
+#: 
+msgid "recurring appointments"
+msgstr "compromissos recorrentes"
+
+#: 
+msgid "Recurring"
+msgstr "Recorrente"
+
+#: 
+msgid "Codes"
+msgstr "Códigos"
+
+#: 
+msgid "Recurring Appointments"
+msgstr "Compromissos Recorrentes"
+
+#: 
+msgid "This setting enables or disables the Repeat step of booking and ability to create recurring bookings."
+msgstr "Esta configuração ativa ou desativa a etapa de reserva repetida e a capacidade de criar reservas recorrentes."
+
+#: 
+msgid "Online Payments"
+msgstr "Pagamentos on-line"
+
+#: 
+msgid "Customers must pay only for the 1st appointment"
+msgstr "Os clientes devem pagar apenas para o 1º compromisso"
+
+#: 
+msgid "Customers must pay for all appointments in series"
+msgstr "Os clientes devem pagar todos os compromissos em série"
+
+#: 
+msgid "Save"
+msgstr "Guardar"
+
+#: 
+msgid "Your appointment information"
+msgstr "Informação do seu compromisso"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the schedule of your booking below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Esta é uma confirmação de que você reservou {service_name} (x {recorring_count}).\n"
+"\n"
+"Por favor, encontre o horário da sua reserva abaixo.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"O aguardamos em {company_address}.\n"
+"\n"
+"Obrigado por escolher nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New booking information"
+msgstr "Nova informação de reserva"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"Você tem uma nova reserva.\n"
+"\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Booking cancellation"
+msgstr "Cancelamento de reserva"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"A sua reserva de {service_name} (x {recorring_count}) foi cancelada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Por favor, encontre o horário da sua reserva abaixo:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Obrigado por escolher nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"A seguinte reserva foi cancelada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Booking rejection"
+msgstr "Rejeição de reserva"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"A sua reserva de {service_name} (x {recorring_count}) foi rejeitada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Por favor, encontre o horário da sua reserva abaixo.:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Obrigado por escolher nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"A seguinte reserva foi rejeitada.\n"
+"\n"
+"Motivo: {cancellation_reason}\n"
+"\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"Please find the schedule of your booking below.\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Esta é uma confirmação de que você reservou {service_name} (x {recorring_count}).\n"
+"Por favor, encontre o horário da sua reserva abaixo.\n"
+"{appointment_schedule}\n"
+"\n"
+"Estamos o esperando em {company_address}.\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"Você tem uma nova reserva.\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"Email do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"A sua reserva de {service_name} (x {recorring_count}) foi cancelada.\n"
+"Motivo: {cancellation_reason}\n"
+"Por favor, encontre o horário da sua reserva abaixo: {appointment_schedule}\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"A seguinte reserva foi cancelada.\n"
+"Motivo: {cancellation_reason}\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"A sua reserva de {service_name} (x {recorring_count}) foi rejeitada.\n"
+"Motivo: {cancellation_reason}\n"
+"Por favor, encontre o horário da sua reserva abaixo: {appointment_schedule}\n"
+"Obrigado por escolher nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"A seguinte reserva foi rejeitada.\n"
+"Motivo: {cancellation_reason}\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "You selected a booking for {service_name} at {service_time} on {service_date}. If you would like to make this appointment recurring please check the box below and set appropriate parameters. Otherwise press Next button below."
+msgstr "Você selecionou uma reserva para {service_name} às {service_time} no dia {service_date}. Se você quiser tornar este compromisso recorrente, marque a caixa abaixo e defina os parâmetros apropriados. Caso contrário, pressione o botão Próximo abaixo."
+
+#: 
+msgid "Day"
+msgstr "Dia"
+
+#: 
+msgid "every"
+msgstr "cada"
+
+#: 
+msgid "The first recurring appointment was added to cart. You will be invoiced for the remaining appointments later."
+msgstr "O primeiro compromisso recorrente foi adicionado ao carrinho. Você será faturado para os compromissos restantes mais tarde."
+
+#: 
+msgid "There are no available time slots for this day"
+msgstr "Não há slots de tempo disponíveis para este dia"
+
+#: 
+msgid "Please select some days"
+msgstr "Por favor, selecione alguns dias"
+
+#: 
+msgid "Schedule"
+msgstr "Horário"
+
+#: 
+msgid "Another time was offered on pages {list}."
+msgstr "Outra hora foi oferecida nas páginas {lista}."
+
+#: 
+msgid "at"
+msgstr "em"
+
+#: 
+msgid "Notification to customer about pending recurring appointment"
+msgstr "Notificação ao cliente sobre compromisso recorrente pendente"
+
+#: 
+msgid "Notification to staff member about pending recurring appointment"
+msgstr "Notificação ao funcionário sobre compromisso recorrente pendente"
+
+#: 
+msgid "Notification to customer about approved recurring appointment"
+msgstr "Notificação ao cliente sobre o compromisso recorrente aprovado"
+
+#: 
+msgid "Notification to staff member about approved recurring appointment"
+msgstr "Notificação ao funcionário sobre o compromisso recorrente aprovado"
+
+#: 
+msgid "Notification to customer about cancelled recurring appointment"
+msgstr "Notificação ao cliente sobre compromisso recorrente cancelado"
+
+#: 
+msgid "Notification to staff member about cancelled recurring appointment "
+msgstr "Notificação ao funcionário sobre compromisso recorrente cancelado"
+
+#: 
+msgid "Notification to customer about rejected recurring appointment"
+msgstr "Notificação ao cliente sobre compromisso recorrente rejeitado"
+
+#: 
+msgid "Notification to staff member about rejected recurring appointment "
+msgstr "Notificação ao funcionário sobre o compromisso recorrente rejeitado"
+
+#: 
+msgid "Settings saved."
+msgstr "Configurações guardadas."
+
+#: 
+msgid "or"
+msgstr "ou"
+
+#: 
+msgid "time(s)"
+msgstr "hora(s)"
+
+#: 
+msgid "Approve recurring appointment URL (success)"
+msgstr "Aprovar a URL do compromisso recorrente (sucesso)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully approved recurring appointment."
+msgstr "Definir a URL de uma página que será mostrada aos funcionários depois que eles aprovarem o compromisso recorrente."
+
+#: 
+msgid "Approve recurring appointment URL (denied)"
+msgstr "Aprovar a URL do compromisso recorrente (negado)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the approval of recurring appointment cannot be done (changed status, etc.)."
+msgstr "Defina a URL de uma página que será mostrada aos funcionários quando a aprovação do compromisso recorrente não puderser feita (status alterado, etc.)."
+
+#: 
+msgid "You have been added to waiting list for appointment"
+msgstr "Você foi adicionado à lista de espera para o compromisso"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the service schedule below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"\n"
+"Esta é uma confirmação de que você foi adicionado à lista de espera para {service_name} (x {recorring_count}).\n"
+"\n"
+"Por favor, encontre o horário de serviço abaixo.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Obrigado por escolher nossa empresa.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New waiting list information"
+msgstr "Nova informação da lista de espera"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have new customer in the waiting list.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"\n"
+"Você tem um novo cliente na lista de espera.\n"
+"\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"Please find the service schedule below.\n"
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Prezado {client_name}.\n"
+"Esta é uma confirmação de que você foi adicionado à lista de espera para {service_name} (x {recorring_count}).\n"
+"Por favor, encontre o horário de serviço abaixo.\n"
+"{appointment_schedule}\n"
+"Obrigado por escolher a nossa empresa.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have new customer in the waiting list.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Olá.\n"
+"Você tem um novo cliente na lista de espera.\n"
+"Serviço: {service_name} (x {recorring_count})\n"
+"Horário:\n"
+"{appointment_schedule}\n"
+"Nome do cliente: {client_name}\n"
+"Telefone do cliente: {client_phone}\n"
+"E-mail do cliente: {client_email}"
+
+#: 
+msgid "Notification to customer about placing on waiting list for recurring appointment"
+msgstr "Notificação ao cliente sobre o posicionamento na lista de espera para compromisso recorrente"
+
+#: 
+msgid "Notification to staff member about placing on waiting list for recurring appointment "
+msgstr "Notificação ao funcionário sobre o posiocionamento na lista de espera para compromisso recorrente"
+
+#: 
+msgid "URL for approving the whole schedule"
+msgstr "URL para aprovar todo o horário"
+

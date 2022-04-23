@@ -1,0 +1,44 @@
+<wpml-config>
+    <admin-texts>
+        <key name="accesspress-staple">
+            <key name="copyright" />
+            <key name="search_placeholder" />
+            <key name="search_button" />
+            <key name="about_view_more" />
+            <key name="feature_title" />
+            <key name="feature_more_text" />
+            <key name="pricing_table_title" />
+            <key name="feature_awesome_title" />
+            <key name="awesome_feature_more_text" />
+            <key name="portfolio_title" />
+            <key name="client_title" />
+            <key name="call_to_action_title" />
+            <key name="call_to_action_more_text" />
+            <key name="team_member_title" />
+            <key name="stat_counter_title" />
+            <key name="counter1_text" />
+            <key name="counter1_numeric" />
+            <key name="counter2_text" />
+            <key name="counter2_numeric" />
+            <key name="counter3_text" />
+            <key name="counter3_numeric" />
+            <key name="counter4_text" />
+            <key name="counter4_numeric" />
+            <key name="blog_title" />
+            <key name="blog_more_text_single" />
+            <key name="blog_more_text" />
+            <key name="testomonial_title" />
+            <key name="rm_lp" />
+            <key name="table1_price" />
+            <key name="table1_more_text" />
+            <key name="table2_price" />
+            <key name="table2_more_text" />
+            <key name="table3_price" />
+            <key name="table3_more_text" />
+            <key name="slider_button_text" />
+            <key name="read_more_portfolio" />
+            <key name="read_more_team" />
+            <key name="read_more_archive" />
+        </key>
+    </admin-texts>       
+</wpml-config>

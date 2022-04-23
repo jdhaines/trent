@@ -1,0 +1,505 @@
+msgid "Your appointment information"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name} (x "
+"{recurring_count}).\n"
+"\n"
+"Please find the schedule of your booking below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "New booking information"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "Booking cancellation"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "Booking rejection"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "You have been added to waiting list for appointment"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have been added to the waiting list for "
+"{service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the service schedule below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid "New waiting list information"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"\n"
+"You have new customer in the waiting list.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name} (x "
+"{recurring_count}).\n"
+"Please find the schedule of your booking below.\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: "
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"The following booking has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: "
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid ""
+"Dear {client_name}.\n"
+"This is a confirmation that you have been added to the waiting list for "
+"{service_name} (x {recurring_count}).\n"
+"Please find the service schedule below.\n"
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr ""
+
+msgid ""
+"Hello.\n"
+"You have new customer in the waiting list.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid ""
+"You selected a booking for {service_name} at {service_time} on "
+"{service_date}. If you would like to make this appointment recurring please "
+"check the box below and set appropriate parameters. Otherwise press Next "
+"button below."
+msgstr ""
+
+msgid "Another time"
+msgstr ""
+
+msgid "Biweekly"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "every"
+msgstr ""
+
+msgid ""
+"The first recurring appointment was added to cart. You will be invoiced for "
+"the remaining appointments later."
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "There are no available time slots for this day"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Please select some days"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Another time was offered on pages {list}."
+msgstr ""
+
+msgid ""
+"Some of the desired time slots are busy. System offers the nearest time slot "
+"instead. Click the Edit button to select another time if needed."
+msgstr ""
+
+msgid "Specific day"
+msgstr ""
+
+msgid "Repeat this appointment"
+msgstr ""
+
+msgid "Until"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Second"
+msgstr ""
+
+msgid "Third"
+msgstr ""
+
+msgid "Fourth"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "time(s)"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "Notification to customer about pending recurring appointment"
+msgstr ""
+
+msgid "Notification to staff member about pending recurring appointment"
+msgstr ""
+
+msgid "Notification to customer about approved recurring appointment"
+msgstr ""
+
+msgid "Notification to staff member about approved recurring appointment"
+msgstr ""
+
+msgid "Notification to customer about cancelled recurring appointment"
+msgstr ""
+
+msgid "Notification to staff member about cancelled recurring appointment "
+msgstr ""
+
+msgid "Notification to customer about rejected recurring appointment"
+msgstr ""
+
+msgid "Notification to staff member about rejected recurring appointment "
+msgstr ""
+
+msgid ""
+"Notification to customer about placing on waiting list for recurring "
+"appointment"
+msgstr ""
+
+msgid ""
+"Notification to staff member about placing on waiting list for recurring "
+"appointment "
+msgstr ""
+
+msgid "Recurring"
+msgstr ""
+
+msgid "Codes"
+msgstr ""
+
+msgid "Recurring Appointments"
+msgstr ""
+
+msgid ""
+"This setting enables or disables the Repeat step of booking and ability to "
+"create recurring bookings."
+msgstr ""
+
+msgid "Online Payments"
+msgstr ""
+
+msgid "Customers must pay only for the 1st appointment"
+msgstr ""
+
+msgid "Customers must pay for all appointments in series"
+msgstr ""
+
+msgid "Approve recurring appointment URL (success)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff after they successfully "
+"approved recurring appointment."
+msgstr ""
+
+msgid "Approve recurring appointment URL (denied)"
+msgstr ""
+
+msgid ""
+"Set the URL of a page that is shown to staff when the approval of recurring "
+"appointment cannot be done (changed status, etc.)."
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Allow this service to have recurring appointments."
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Frequencies"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Nothing selected"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "pages with another time"
+msgstr ""
+
+msgid "recurring appointments schedule"
+msgstr ""
+
+msgid "recurring appointments schedule with cancel"
+msgstr ""
+
+msgid "URL for approving the whole schedule"
+msgstr ""
+
+msgid "recurring appointments"
+msgstr ""
+
+msgid "Every"
+msgstr ""
+
+msgid "View Series"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Another time was offered on pages"
+msgstr ""
+
+msgid "Delete Appointment"
+msgstr ""
+
+msgid "Delete only this appointment"
+msgstr ""
+
+msgid "Delete this and the following appointments"
+msgstr ""
+
+msgid "Delete all appointments in series"
+msgstr ""
+
+msgid "Send notifications"
+msgstr ""
+
+msgid "Cancellation reason (optional)"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Recurring appointments"
+msgstr ""
+
+msgid "Save"
+msgstr ""

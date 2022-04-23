@@ -1,0 +1,43 @@
+== changelog ==
+
+= 1.5.3 =
+- add_theme_support( 'title-tag' ); 
+
+= 1.5.2 =
+- add en_EN.po and en_EN.mo
+- screen-reader-text
+
+= 1.4 =
+- WordPress 4.2 Ready
+
+= 1.3 =
+- Jetpack (logo and favicon)
+- Easy Google Fonts
+
+= 1.2.15 =
+- add page "Just Landing PRO" 
+- add in style.css p {line-height: 1.8em;}
+- add Button 4
+
+= 1.2.14 =
+- new color in post
+- bug fix
+
+= 1.2.12 =
+- del img in header
+- Bug fix in functions.php
+
+= 1.2.8 =
+- add img in header
+
+= 1.2.6 =
+- responsive 320px
+
+= 1.2.5 =
+- Bug fix in functions.php
+
+= 1.1 =
+- Add file: page.php, single.php
+
+= 1.0 =
+- The new name: Just Landing

@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<li class="bookly-nav-item" data-target="#bookly_settings_recurring_appointments" data-toggle="tab"><?php esc_html_e( 'Recurring Appointments', 'bookly-recurring-appointments' ) ?></li>

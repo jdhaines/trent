@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Recurring Appointments (Add-on)\n"
+"Language: ru\n"
+
+#: 
+msgid "pages with another time"
+msgstr "страницы с другим временем"
+
+#: 
+msgid "Edit"
+msgstr "Редактировать"
+
+#: 
+msgid "Remove"
+msgstr "Удалить"
+
+#: 
+msgid "Restore"
+msgstr "Восстановить"
+
+#: 
+msgid "View Series"
+msgstr "Просмотреть серию"
+
+#: 
+msgid "Back"
+msgstr "Назад"
+
+#: 
+msgid "Next"
+msgstr "Далее"
+
+#: 
+msgid "Some of the desired time slots are busy. System offers the nearest time slot instead. Click the Edit button to select another time if needed."
+msgstr "Некоторые из требуемых временных интервалов заняты. Вместо них система предлагает ближайшее время. При необходимости нажмите на кнопку \"Редактировать\", чтобы выбрать другое время."
+
+#: 
+msgid "Deleted"
+msgstr "Удалено"
+
+#: 
+msgid "Another time"
+msgstr "Другое время"
+
+#: 
+msgid "Delete"
+msgstr "Удалить"
+
+#: 
+msgid "Apply"
+msgstr "Применить"
+
+#: 
+msgid "Another time was offered on pages"
+msgstr "Другое время было предложено на страницах"
+
+#: 
+msgid "Repeat this appointment"
+msgstr "Повторить эту встречу"
+
+#: 
+msgid "Repeat"
+msgstr "Повторить"
+
+#: 
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: 
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: 
+msgid "Biweekly"
+msgstr "Раз в две недели"
+
+#: 
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+#: 
+msgid "Every"
+msgstr "Каждые"
+
+#: 
+msgid "day(s)"
+msgstr "дня (дней)"
+
+#: 
+msgid "On"
+msgstr "В"
+
+#: 
+msgid "Specific day"
+msgstr "Определенный день"
+
+#: 
+msgid "First"
+msgstr "Первый"
+
+#: 
+msgid "Second"
+msgstr "Второй"
+
+#: 
+msgid "Third"
+msgstr "Третий"
+
+#: 
+msgid "Fourth"
+msgstr "Четвёртый"
+
+#: 
+msgid "Last"
+msgstr "Последний"
+
+#: 
+msgid "Until"
+msgstr "До"
+
+#: 
+msgid "Delete Appointment"
+msgstr "Удалить встречу"
+
+#: 
+msgid "Delete only this appointment"
+msgstr "Удалить только эту встречу"
+
+#: 
+msgid "Delete this and the following appointments"
+msgstr "Удалить эту и все последующие встречи"
+
+#: 
+msgid "Delete all appointments in series"
+msgstr "Удалить всю серию встреч"
+
+#: 
+msgid "Send notifications"
+msgstr "Отправить уведомления"
+
+#: 
+msgid "Cancellation reason (optional)"
+msgstr "Причина отмены (необязательно)"
+
+#: 
+msgid "Cancel"
+msgstr "Отменить"
+
+#: 
+msgid "Close"
+msgstr "Закрыть"
+
+#: 
+msgid "Recurring appointments"
+msgstr "Повторяющиеся встречи"
+
+#: 
+msgid "Allow this service to have recurring appointments."
+msgstr "Разрешить этому сервису иметь повторяющиеся встречи."
+
+#: 
+msgid "Disabled"
+msgstr "Выключено"
+
+#: 
+msgid "Enabled"
+msgstr "Включено"
+
+#: 
+msgid "Frequencies"
+msgstr "Частота"
+
+#: 
+msgid "All"
+msgstr "Все"
+
+#: 
+msgid "Nothing selected"
+msgstr "Ничего не выбрано"
+
+#: 
+msgid "recurring appointments schedule"
+msgstr "график повторяющихся встреч"
+
+#: 
+msgid "recurring appointments schedule with cancel"
+msgstr "график повторяющихся встреч с возможностью отмены"
+
+#: 
+msgid "recurring appointments"
+msgstr "повторяющиеся встречи"
+
+#: 
+msgid "Recurring"
+msgstr "Повторяющиеся"
+
+#: 
+msgid "Codes"
+msgstr "Коды"
+
+#: 
+msgid "Recurring Appointments"
+msgstr "Повторяющиеся встречи"
+
+#: 
+msgid "This setting enables or disables the Repeat step of booking and ability to create recurring bookings."
+msgstr "Эта настройка включает или выключает шаг \"Повторить\" во время бронирования и возможность создавать повторяющиеся встречи."
+
+#: 
+msgid "Online Payments"
+msgstr "Онлайн платежи"
+
+#: 
+msgid "Customers must pay only for the 1st appointment"
+msgstr "Клиенты должны оплатить только первую встречу"
+
+#: 
+msgid "Customers must pay for all appointments in series"
+msgstr "Клиенты должны оплатить все встречи"
+
+#: 
+msgid "Save"
+msgstr "Сохранить"
+
+#: 
+msgid "Your appointment information"
+msgstr "Информация о Вашей брони"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the schedule of your booking below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"\n"
+"Настоящим сообщением подтверждаем, что Вы забронировали {service_name} (x {recurring_count}).\n"
+"\n"
+"Пожалуйста, просмотрите Ваш график встреч ниже.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Мы ждем Вас по адресу {company_address}.\n"
+"\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New booking information"
+msgstr "Информация о новом бронировании"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"\n"
+"У вас новая встреча.\n"
+"\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Booking cancellation"
+msgstr "Отмена встречи"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"\n"
+"Ваша встреча {service_name} (x {recurring_count}) была отменена.\n"
+"\n"
+"Причина: {cancellation_reason}\n"
+"\n"
+"Пожалуйста, просмотрите график отменённой встречи ниже:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"\n"
+"Следующая встреча была отменена.\n"
+"\n"
+"Причина: {cancellation_reason}\n"
+"\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Booking rejection"
+msgstr "Отказ в бронировании"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"\n"
+"Вам отказано в бронировании {service_name} (x {recurring_count}).\n"
+"\n"
+"Причина: {cancellation_reason}\n"
+"\n"
+"Пожалуйста, просмотрите график отменённой встречи ниже:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"\n"
+"В следующей встрече было отказано.\n"
+"\n"
+"Причина: {cancellation_reason}\n"
+"\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"Please find the schedule of your booking below.\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"Настоящим сообщением подтверждаем, что Вы забронировали {service_name} (x {recurring_count}).\n"
+"Пожалуйста, просмотрите Ваш график встреч ниже.\n"
+"{appointment_schedule}\n"
+"\n"
+"Мы ждем Вас по адресу {company_address}.\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"У вас новая встреча.\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"Ваша встреча {service_name} (x {recurring_count}) была отменена.\n"
+"Причина: {cancellation_reason}\n"
+"Пожалуйста, просмотрите график отменённой встречи ниже:\n"
+"{appointment_schedule}\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"Следующая встреча была отменена.\n"
+"Причина: {cancellation_reason}\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"Вам отказано в бронировании {service_name} (x {recurring_count}).\n"
+"Причина: {cancellation_reason}\n"
+"Пожалуйста, просмотрите график отменённой встречи ниже:\n"
+"{appointment_schedule}\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"В следующей встрече было отказано.\n"
+"Причина: {cancellation_reason}\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "You selected a booking for {service_name} at {service_time} on {service_date}. If you would like to make this appointment recurring please check the box below and set appropriate parameters. Otherwise press Next button below."
+msgstr "Вы выбрали {service_name} в {service_time} на {service_date}. Если Вы хотите повторить эту встречу, пожалуйста, поставьте галочку ниже и задайте соответствующие параметры. Или нажмите на кнопку \"Далее\"."
+
+#: 
+msgid "Day"
+msgstr "День"
+
+#: 
+msgid "every"
+msgstr "каждый"
+
+#: 
+msgid "The first recurring appointment was added to cart. You will be invoiced for the remaining appointments later."
+msgstr "Первая повторяющаяся встреча добавлена в корзину. Вам будет выставлен счёт за оставшиеся встречи позже."
+
+#: 
+msgid "There are no available time slots for this day"
+msgstr "В этот день нет свободного времени"
+
+#: 
+msgid "Please select some days"
+msgstr "Пожалуйста, выберите дни"
+
+#: 
+msgid "Schedule"
+msgstr "График"
+
+#: 
+msgid "Another time was offered on pages {list}."
+msgstr "Другое время было предложено на страницах {list}."
+
+#: 
+msgid "at"
+msgstr "в"
+
+#: 
+msgid "Notification to customer about pending recurring appointment"
+msgstr "Уведомление для клиента о повторяющейся встрече со статусом \"В ожидании\""
+
+#: 
+msgid "Notification to staff member about pending recurring appointment"
+msgstr "Уведомление для сотрудника о повторяющейся встрече со статусом \"В ожидании\""
+
+#: 
+msgid "Notification to customer about approved recurring appointment"
+msgstr "Уведомление для клиента о повторяющейся встрече со статусом \"Подтверждено\""
+
+#: 
+msgid "Notification to staff member about approved recurring appointment"
+msgstr "Уведомление для сотрудника о повторяющейся встрече со статусом \"Подтверждено\""
+
+#: 
+msgid "Notification to customer about cancelled recurring appointment"
+msgstr "Уведомление для клиента о повторяющейся встрече со статусом \"Отменено\""
+
+#: 
+msgid "Notification to staff member about cancelled recurring appointment "
+msgstr "Уведомление для сотрудника о повторяющейся встрече со статусом \"Отменено\" "
+
+#: 
+msgid "Notification to customer about rejected recurring appointment"
+msgstr "Уведомление для клиента о повторяющейся встрече со статусом \"Отказано\""
+
+#: 
+msgid "Notification to staff member about rejected recurring appointment "
+msgstr "Уведомление для сотрудника о повторяющейся встрече со статусом \"Отказано\" "
+
+#: 
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: 
+msgid "or"
+msgstr "или"
+
+#: 
+msgid "time(s)"
+msgstr "раз(а)"
+
+#: 
+msgid "Approve recurring appointment URL (success)"
+msgstr "URL страницы после подтверждения забронированной повторяющейся встречи (в случае успеха)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully approved recurring appointment."
+msgstr "Укажите URL страницы, которая будет показана сотруднику в случае успешного подтверждения повторяющейся встречи."
+
+#: 
+msgid "Approve recurring appointment URL (denied)"
+msgstr "URL страницы после подтверждения забронированной повторяющейся встречи (в случае отказа)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the approval of recurring appointment cannot be done (changed status, etc.)."
+msgstr "Укажите URL страницы, которая будет показана сотруднику в случае, когда подтверждение повторяющейся встречи невозможно (по причине изменённого статуса и др.)."
+
+#: 
+msgid "You have been added to waiting list for appointment"
+msgstr "Вы были добавлены в список ожидания на встречу"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the service schedule below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"\n"
+"Настоящим сообщением подтверждаем, что Вы были добавлены в список ожидания на {service_name} (x {recurring_count}).\n"
+"\n"
+"Пожалуйста, просмотрите Ваш график встреч ниже.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New waiting list information"
+msgstr "Информация о новом добавлении в список ожидания"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have new customer in the waiting list.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"\n"
+"В список ожидания был добавлен новый клиент.\n"
+"\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"Please find the service schedule below.\n"
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Дорогой(ая) {client_name}.\n"
+"Настоящим сообщением подтверждаем, что Вы были добавлены в список ожидания на {service_name} (x {recurring_count}).\n"
+"Пожалуйста, просмотрите Ваш график встреч ниже.\n"
+"{appointment_schedule}\n"
+"Спасибо, что выбрали нашу компанию.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have new customer in the waiting list.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Здравствуйте.\n"
+"В список ожидания был добавлен новый клиент.\n"
+"Сервис: {service_name} (x {recurring_count})\n"
+"График:\n"
+"{appointment_schedule}\n"
+"Имя клиента: {client_name}\n"
+"Телефон клиента: {client_phone}\n"
+"Электронная почта клиента: {client_email}"
+
+#: 
+msgid "Notification to customer about placing on waiting list for recurring appointment"
+msgstr "Уведомление для клиента о добавлении в список ожидания на повторяющуюся встречу"
+
+#: 
+msgid "Notification to staff member about placing on waiting list for recurring appointment "
+msgstr "Уведомление для сотрудника о добавлении в список ожидания на повторяющуюся встречу"
+
+#: 
+msgid "URL for approving the whole schedule"
+msgstr "URL для подтверждения всего графика"
+

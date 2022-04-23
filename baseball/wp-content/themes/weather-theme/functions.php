@@ -1,0 +1,40 @@
+<?php
+/**
+* Customizer Defaults
+*
+* The following filter is used to setup the customizer defaults which are setup by your child theme
+*
+*/
+function layers_weather_customizer_defaults( $defaults ){
+
+	$defaults = array(
+		'header-menu-layout' => 'header-logo-left',
+		'site-accent-color' => '#7A30F8',
+		'header-background-color' => '#7A30F8',
+		'header-sticky' => '1',
+		'footer-sidebar-count' => '0',
+	);
+
+	return $defaults;
+}
+add_filter( 'layers_customizer_control_defaults', 'layers_weather_customizer_defaults' );
+/**
+* Preset Layouts
+*
+* The following filter adds your Layers pages to the preset layouts under Layers > Add Page
+*
+*/
+
+
+function layers_weather_presets( $layers_preset_layouts ){
+	$weather_presets[ 'weather-home-page' ] = array(
+		'title' => __( 'Weather - Home', 'layers-weather' ),
+		'screenshot' => get_stylesheet_directory_uri().'/assets/preset-images/preset-home.jpg',
+		'screenshot_type' => 'jpg',
+		'json' =>  '{"obox-layers-builder-5":{"layers-widget-slide-1":{"design":{"layout":"layout-full-screen","advanced":{"customclass":"","customcss":"","padding":{"top":"","right":"","bottom":"","left":""},"margin":{"top":"","right":"","bottom":"","left":""}}},"show_slider_arrows":"on","show_slider_dots":"on","slide_time":"","slide_height":"750","slide_ids":"249","slides":{"249":{"design":{"background":{"image":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/banner-feature.jpg","color":"#ffffff","repeat":"no-repeat","position":"center","stretch":"on"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/app-feature.png","featuredvideo":"","imagealign":"image-left","fonts":{"align":"text-left","size":"large","color":"#ffffff"}},"title":"Introducing Weather","excerpt":"Never forget your jersey again. Never get left standing in the rain.","link":"#","link_text":"Purchase for iOS"}}},"layers-widget-column-4":{"design":{"layout":"layout-boxed","gutter":"on","fonts":{"align":"text-left","size":"medium","color":""},"background":{"image":"","color":"#f3f3f3","repeat":"no-repeat","position":"center"},"advanced":{"customclass":"","customcss":"","padding":{"top":"","right":"","bottom":"","left":""},"margin":{"top":"","right":"","bottom":"","left":""}}},"title":"","excerpt":"","column_ids":"10,236,617,603,436,955","columns":{"10":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/cloudy.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Cloudy","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""},"236":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/drizzle.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Raining","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""},"617":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/lightning.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Lightning","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""},"603":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/raining.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Pouring","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""},"436":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/partly-cloudy.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Partly Cloudy","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""},"955":{"design":{"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/cloudy-with-rain.png","featuredvideo":"","imagealign":"image-top","fonts":{"align":"text-center","size":"small","color":""}},"width":"2","title":"Sunny with Rain","excerpt":"Lorem ipsum dolor sit amet consectetur.","link_text":"","link":""}}},"layers-widget-column-8":{"design":{"layout":"layout-boxed","gutter":"on","fonts":{"align":"text-left","size":"medium","color":""},"background":{"image":"","color":"","repeat":"no-repeat","position":"center"},"advanced":{"customclass":"side-by-side-list","customcss":"","padding":{"top":"","right":"","bottom":"","left":""},"margin":{"top":"","right":"","bottom":"","left":""}}},"title":"","excerpt":"","column_ids":"506,672,439","columns":{"506":{"design":{"background":{"image":"","color":"#ffffff","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/feature-san-fran.png","featuredvideo":"","imagealign":"image-left","fonts":{"align":"text-left","size":"large","color":""}},"width":"12","title":"Know when to take a coat","excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae massa velit, eu laoreet massa.","link_text":"","link":""},"672":{"design":{"background":{"image":"","color":"#ffffff","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/feature-cape-town.png","featuredvideo":"","imagealign":"image-right","fonts":{"align":"text-left","size":"large","color":""}},"width":"12","title":"Know when to take a cap","excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae massa velit, eu laoreet massa.","link_text":"","link":""},"439":{"design":{"background":{"image":"","color":"#ffffff","repeat":"no-repeat","position":"center"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/feature-london.png","featuredvideo":"","imagealign":"image-left","fonts":{"align":"text-left","size":"large","color":""}},"width":"12","title":"Know when to take cover","excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae massa velit, eu laoreet massa.","link_text":"","link":""}}},"layers-widget-slide-4":{"show_slider_arrows":"on","show_slider_dots":"on","slide_time":"","slide_height":"550","design":{"advanced":{"customclass":"","customcss":"","padding":{"top":"","right":"","bottom":"","left":""},"margin":{"top":"","right":"","bottom":"","left":""}}},"slide_ids":"454","slides":{"454":{"design":{"background":{"image":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/sunny-buy1.jpg","color":"#f3f3f3","repeat":"no-repeat","position":"center","stretch":"on"},"featuredimage":"http:\/\/sites.layerswp.com\/weather\/wp-content\/uploads\/sites\/7\/2015\/02\/purchase-app-01.png","featuredvideo":"","imagealign":"image-right","fonts":{"align":"text-left","size":"medium","color":"#ffffff"}},"title":"Purchase Weather for $9.99","excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae massa velit, eu laoreet massa.","link":"#","link_text":"Purchase for iOS"}}}}}'
+	);
+
+	return array_merge( $weather_presets,  $layers_preset_layouts );
+}
+
+add_filter( 'layers_preset_layouts', 'layers_weather_presets', 0 );

@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Just Landing v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-17 16:25+0200\n"
+"PO-Revision-Date: 2015-12-25 13:12+0300\n"
+"Last-Translator: JustPX <mail@justpx.com>\n"
+"Language-Team: JustPX <mail@justpx.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_EN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - Page Not Found"
+
+#: footer.php:6
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:6
+msgid "Theme"
+msgstr "Theme"
+
+#: search.php:21
+msgid "Not found."
+msgstr "Not found."
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Search"
+
+#: single.php:13
+msgid "Categories "
+msgstr "Categories:"
+
+#: single.php:14
+msgid "Previous post link"
+msgstr "Previous post link"
+
+#: single.php:15
+msgid "Next post link"
+msgstr "Next post link"
+
+#: index.php:12
+msgid "This template will help you create a Landing Page or One Page."
+msgstr "This template will help you create a Landing Page or One Page."
+
+#: index.php:13
+msgid ""
+"To set it up, go to the administration panel, create a page, select the "
+"number of required blocks, assign a static page and using widgets fill it "
+"with necessary content."
+msgstr ""
+"To set it up, go to the administration panel, create a page, select the "
+"number of required blocks, assign a static page and using widgets fill it "
+"with necessary content."
+
+#: index.php:14
+msgid ""
+"A detailed description with screenshots can be found on the page Theme "
+"Options. Go to the administration panel and then click on Apperance -> Theme "
+"Options"
+msgstr ""
+"A detailed description with screenshots can be found on the page Theme "
+"Options. Go to the administration panel and then click on Apperance -> Theme "
+"Options"
+
+#: index.php:17
+msgid "+ 22 Sidebar"
+msgstr "+ 22 Sidebar"
+
+#: index.php:18
+msgid "+ Responsive web design"
+msgstr "+ Responsive web design"
+
+#: index.php:41
+msgid "Read more..."
+msgstr "Read more..."
+
+#: index.php:43
+msgid "Categories:"
+msgstr "Categories:"
+
+#: index.php:53
+msgid "&laquo; Newer"
+msgstr "&laquo; Newer"
+
+#: index.php:54
+msgid "Older &raquo;"
+msgstr "Older &raquo;"
+
+#: functions.php:178
+msgid "22 Sidebar for theme Just Landing"
+msgstr "22 Sidebar for theme Just Landing"
+
+#: functions.php:181
+msgid "Documentation for"
+msgstr "Documentation for"
+
+#: functions.php:181
+msgid "Just Landing free"
+msgstr "Just Landing free"
+
+#: functions.php:183
+msgid "Go to the section Pages, and click on Add New."
+msgstr "Go to the section Pages, and click on Add New."
+
+#: functions.php:183
+msgid ""
+"On the right side in the field Template choose a desired number of blocks, "
+"type in the page name page and save."
+msgstr ""
+"On the right side in the field Template choose a desired number of blocks, "
+"type in the page name page and save."
+
+#: functions.php:186
+msgid "Go to Settings -> Reading and assign a static page."
+msgstr "Go to Settings -> Reading and assign a static page."
+
+#: functions.php:201
+msgid "Theme Just Landing PRO"
+msgstr "Theme Just Landing PRO"
+
+#: functions.php:204
+msgid "Site"
+msgstr "Site"
+
+#: functions.php:204
+msgid "Just Landing PRO"
+msgstr "Just Landing PRO"
+
+#: functions.php:204
+msgid "theme, demo, documentation."
+msgstr "theme, demo, documentation."
+
+#: functions.php:205
+msgid "Discount - Code:"
+msgstr "Discount - Code:"
+
+#: functions.php:207
+msgid "Just Landing PRO "
+msgstr "Just Landing PRO"
+
+#: functions.php:208
+msgid "Just Landing PRO ( No backlink ) – 98 sidebar"
+msgstr "Just Landing PRO ( No backlink ) – 98 sidebar"

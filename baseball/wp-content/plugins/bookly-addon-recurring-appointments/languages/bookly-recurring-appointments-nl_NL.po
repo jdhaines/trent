@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Recurring Appointments (Add-on)\n"
+"Language: nl\n"
+
+#: 
+msgid "pages with another time"
+msgstr "pagina's met een andere tijd"
+
+#: 
+msgid "Edit"
+msgstr "Wijzigen"
+
+#: 
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: 
+msgid "Restore"
+msgstr "Herstellen"
+
+#: 
+msgid "View Series"
+msgstr "Bekijk Series"
+
+#: 
+msgid "Back"
+msgstr "Terug"
+
+#: 
+msgid "Next"
+msgstr "Volgende"
+
+#: 
+msgid "Some of the desired time slots are busy. System offers the nearest time slot instead. Click the Edit button to select another time if needed."
+msgstr "Enkele van de gewenste tijdsloten zijn bezet. Het systeem biedt in plaats daarvan het dichtstbijzijnde tijdslot. Klik op de Wijzigen knop om indien nodig een ander tijd te kiezen."
+
+#: 
+msgid "Deleted"
+msgstr "Verwijderd"
+
+#: 
+msgid "Another time"
+msgstr "Andere tijd"
+
+#: 
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: 
+msgid "Apply"
+msgstr "Toepassen"
+
+#: 
+msgid "Another time was offered on pages"
+msgstr "Andere tijd werd aangeboden op pagina's"
+
+#: 
+msgid "Repeat this appointment"
+msgstr "Herhaal de afspraak"
+
+#: 
+msgid "Repeat"
+msgstr "Herhalen"
+
+#: 
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: 
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: 
+msgid "Biweekly"
+msgstr "Tweewekelijks"
+
+#: 
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: 
+msgid "Every"
+msgstr "Iedere"
+
+#: 
+msgid "day(s)"
+msgstr "dag(en)"
+
+#: 
+msgid "On"
+msgstr "Op"
+
+#: 
+msgid "Specific day"
+msgstr "Specifieke dag"
+
+#: 
+msgid "First"
+msgstr "Eerste"
+
+#: 
+msgid "Second"
+msgstr "Tweede"
+
+#: 
+msgid "Third"
+msgstr "Derde"
+
+#: 
+msgid "Fourth"
+msgstr "Vierde"
+
+#: 
+msgid "Last"
+msgstr "Laatste"
+
+#: 
+msgid "Until"
+msgstr "Tot"
+
+#: 
+msgid "Delete Appointment"
+msgstr "Verwijder Afspraak"
+
+#: 
+msgid "Delete only this appointment"
+msgstr "Verwijder alleen deze afspraak"
+
+#: 
+msgid "Delete this and the following appointments"
+msgstr "Verwijder deze en de volgende afspraken"
+
+#: 
+msgid "Delete all appointments in series"
+msgstr "Verwijder alle afspraken in serie"
+
+#: 
+msgid "Send notifications"
+msgstr "Verstuur meldingen"
+
+#: 
+msgid "Cancellation reason (optional)"
+msgstr "Annuleer reden (optioneel)"
+
+#: 
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: 
+msgid "Close"
+msgstr "Sluiten"
+
+#: 
+msgid "Recurring appointments"
+msgstr "Terugkerende afspraken"
+
+#: 
+msgid "Allow this service to have recurring appointments."
+msgstr "Sta deze dienst toe om terugkerende afspraken te hebben."
+
+#: 
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: 
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: 
+msgid "Frequencies"
+msgstr "Frequenties"
+
+#: 
+msgid "All"
+msgstr "Alle"
+
+#: 
+msgid "Nothing selected"
+msgstr "Niets geselecteerd"
+
+#: 
+msgid "recurring appointments schedule"
+msgstr "terugkerende afspraken planning"
+
+#: 
+msgid "recurring appointments schedule with cancel"
+msgstr "terugkerende afspraken planning met annulering"
+
+#: 
+msgid "recurring appointments"
+msgstr "terugkerende afspraken"
+
+#: 
+msgid "Recurring"
+msgstr "Terugkerende"
+
+#: 
+msgid "Codes"
+msgstr "Codes"
+
+#: 
+msgid "Recurring Appointments"
+msgstr "Terugkerende Afspraken"
+
+#: 
+msgid "This setting enables or disables the Repeat step of booking and ability to create recurring bookings."
+msgstr "Deze instelling schakelt de Herhalende stap van het boeken in of uit en de mogelijkheid om terugkerende boekingen aan te maken."
+
+#: 
+msgid "Online Payments"
+msgstr "Online Betalingen"
+
+#: 
+msgid "Customers must pay only for the 1st appointment"
+msgstr "Klanten moet alleen betalen voor de 1e afspraak"
+
+#: 
+msgid "Customers must pay for all appointments in series"
+msgstr "Klanten moeten betalen voor alle afspraken in series"
+
+#: 
+msgid "Save"
+msgstr "Bewaren"
+
+#: 
+msgid "Your appointment information"
+msgstr "Uw afspraak informatie"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the schedule of your booking below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"\n"
+"Dit is een bevestiging dat u {service_name} (x {recurring_count}) heeft geboekt.\n"
+"\n"
+"Gelieve de planning van uw boeking hieronder aan te treffen.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"We verwachten u op {company_address}.\n"
+"\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New booking information"
+msgstr "Nieuwe boekingsinformatie"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"\n"
+"U heeft een nieuwe boeking.\n"
+"\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Booking cancellation"
+msgstr "Boeking annulering"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"\n"
+"Uw boeking van {service_name} (x {recurring_count}) is geannuleerd.\n"
+"\n"
+"Reden: {cancellation_reason}\n"
+"\n"
+"Gelieve de planning van de geannuleerde boeking hieronder aan te treffen:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been cancelled.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"\n"
+"De volgende boeking is geannuleerd.\n"
+"\n"
+"Reden: {cancellation_reason}\n"
+"\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Booking rejection"
+msgstr "Boeking afwijzing"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Please find the schedule of the cancelled booking below:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"\n"
+"Uw boeking van {service_name} (x {recurring_count}) is afgewezen.\n"
+"\n"
+"Reden: {cancellation_reason}\n"
+"\n"
+"Gelieve de planning van de geannuleerde boeking hieronder aan te treffen:\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Reason: {cancellation_reason}\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hello.\n"
+"\n"
+"De volgende boeking is afgewezen.\n"
+"\n"
+"Reden: {cancellation_reason}\n"
+"\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have booked {service_name} (x {recurring_count}).\n"
+"Please find the schedule of your booking below.\n"
+"{appointment_schedule}\n"
+"\n"
+"We are waiting you at {company_address}.\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"Dit is bevestiging dat u {service_name} (x {recurring_count}) heeft geboekt.\n"
+"Gelieve de planning van de boeking hieronder aan te treffen:\n"
+"{appointment_schedule}\n"
+"\n"
+"We verwachten u op {company_address}.\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have a new booking.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"U heeft een nieuwe boeking.\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"Uw boeking van {service_name} (x {recurring_count}) is geannuleerd.\n"
+"Reden: {cancellation_reason}\n"
+"Gelieve de planning van de geannuleerd boeking hieronder aan te treffen: {appointment_schedule}\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been cancelled.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"De volgende boeking is geannuleerd.\n"
+"Reden: {cancellation_reason}\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"Your booking of {service_name} (x {recurring_count}) has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Please find the schedule of the cancelled booking below: {appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"Uw boeking van {service_name} (x {recurring_count}) is afgewezen.\n"
+"Reden: {cancellation_reason}\n"
+"Gelieve de planning van de geannuleerd boeking hieronder aan te treffen: {appointment_schedule}: {appointment_schedule}\n"
+"Bedankt voor het gebruiken van ons bedrijf.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"The following booking has been rejected.\n"
+"Reason: {cancellation_reason}\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"De volgende boeking is afgewezen.\n"
+"Reden: {cancellation_reason}\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Plnning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "You selected a booking for {service_name} at {service_time} on {service_date}. If you would like to make this appointment recurring please check the box below and set appropriate parameters. Otherwise press Next button below."
+msgstr "U heeft een boeking geselecteerd voor {service_name} op {service_time} om {service_date}. Als u deze afspraak terugkerend wilt maken vink dan onderstaande veld aan en stel de toepasselijke parameters in.\n"
+"Klik anders op onderstaande Volgende knop."
+
+#: 
+msgid "Day"
+msgstr "Dag"
+
+#: 
+msgid "every"
+msgstr "iedere"
+
+#: 
+msgid "The first recurring appointment was added to cart. You will be invoiced for the remaining appointments later."
+msgstr "De eerste terugkerende afspraak is aan uw mandje toegevoegd. U zal later worden gefactureerd voor de verdere afspraken."
+
+#: 
+msgid "There are no available time slots for this day"
+msgstr "Er zijn geen beschikbare tijdsloten voor deze dag"
+
+#: 
+msgid "Please select some days"
+msgstr "Gelieve enkele dagen te selecteren"
+
+#: 
+msgid "Schedule"
+msgstr "Planning"
+
+#: 
+msgid "Another time was offered on pages {list}."
+msgstr "Andere tijd werd aangeboden op pagina's {list}."
+
+#: 
+msgid "at"
+msgstr "om"
+
+#: 
+msgid "Notification to customer about pending recurring appointment"
+msgstr "Melding aan klant over lopende terugkerende afspraak"
+
+#: 
+msgid "Notification to staff member about pending recurring appointment"
+msgstr "Melding aan personeelslid over lopende terugkerende afspraak"
+
+#: 
+msgid "Notification to customer about approved recurring appointment"
+msgstr "Melding an klant over goedgekeurde terugkerende afspraak"
+
+#: 
+msgid "Notification to staff member about approved recurring appointment"
+msgstr "Melding aan personeelslid over goedgekeurde terugkerende afspraak"
+
+#: 
+msgid "Notification to customer about cancelled recurring appointment"
+msgstr "Melding aan klant over geannuleerde terugkerende afspraak"
+
+#: 
+msgid "Notification to staff member about cancelled recurring appointment "
+msgstr "Melding aan personeelslid over geannuleerde terugkerende afspraak"
+
+#: 
+msgid "Notification to customer about rejected recurring appointment"
+msgstr "Melding aan klant over afgewezen terugkerende afspraak"
+
+#: 
+msgid "Notification to staff member about rejected recurring appointment "
+msgstr "Melding aan personeelslid over afgewezen terugkerende afspraak"
+
+#: 
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen"
+
+#: 
+msgid "or"
+msgstr "of"
+
+#: 
+msgid "time(s)"
+msgstr "tijd(en)"
+
+#: 
+msgid "Approve recurring appointment URL (success)"
+msgstr "Goedkeuren terugkerende afspraak URL (succes)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff after they successfully approved recurring appointment."
+msgstr "Stel de URL van een pagina in die wordt getoond nadat zij succesvol een terugkerende afspraak hebben goedgekeurd."
+
+#: 
+msgid "Approve recurring appointment URL (denied)"
+msgstr "Goedkeuren terugkerende afspraak URL (afgewezen)"
+
+#: 
+msgid "Set the URL of a page that is shown to staff when the approval of recurring appointment cannot be done (changed status, etc.)."
+msgstr "Stel de URL van een pagina in die wordt getoond als de goedkeuring van een terugkerende afspraak niet kan worden uitgevoerd (gewijzigd status, enz.)."
+
+#: 
+msgid "You have been added to waiting list for appointment"
+msgstr "U bent toegevoegd aan de wachtlijst voor afspraak"
+
+#: 
+msgid "Dear {client_name}.\n"
+"\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"\n"
+"Please find the service schedule below.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"\n"
+"Dit is een bestiging dat u bent toegevoegd aan de wachtlijst voor {service_name} (x {recurring_count}).\n"
+"\n"
+"Gelieve de dienst planning hieronder aan te treffen.\n"
+"\n"
+"{appointment_schedule}\n"
+"\n"
+"Bedankt voor het kiezen van ons bedrijf.\n"
+"\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "New waiting list information"
+msgstr "Nieuwe wachtlijst informatie"
+
+#: 
+msgid "Hello.\n"
+"\n"
+"You have new customer in the waiting list.\n"
+"\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"\n"
+"U heeft een nieuwe klant in de wachtlijst.\n"
+"\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Dear {client_name}.\n"
+"This is a confirmation that you have been added to the waiting list for {service_name} (x {recurring_count}).\n"
+"Please find the service schedule below.\n"
+"{appointment_schedule}\n"
+"Thank you for choosing our company.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+msgstr "Beste {client_name}.\n"
+"Dit is een bevestiging dat u bent toegevoegd aan de wachtlijst voor {service_name} (x {recurring_count}).\n"
+"Gelieve de dienstplanning hieronder aan te treffen.\n"
+"{appointment_schedule}\n"
+"Bedankt voor het kiezen van ons bedrijf.\n"
+"{company_name}\n"
+"{company_phone}\n"
+"{company_website}"
+
+#: 
+msgid "Hello.\n"
+"You have new customer in the waiting list.\n"
+"Service: {service_name} (x {recurring_count})\n"
+"Schedule:\n"
+"{appointment_schedule}\n"
+"Client name: {client_name}\n"
+"Client phone: {client_phone}\n"
+"Client email: {client_email}"
+msgstr "Hallo.\n"
+"U heeft een nieuwe klant in de wachtlijst.\n"
+"Dienst: {service_name} (x {recurring_count})\n"
+"Planning:\n"
+"{appointment_schedule}\n"
+"Klant naam: {client_name}\n"
+"Klant telefoonnummer: {client_phone}\n"
+"Klant e-mail: {client_email}"
+
+#: 
+msgid "Notification to customer about placing on waiting list for recurring appointment"
+msgstr "Melding aan klant over het plaatsen op de wachtlijst voor terugkerende afspraak"
+
+#: 
+msgid "Notification to staff member about placing on waiting list for recurring appointment "
+msgstr "Melding aan personeelslid over het plaatsen op de wachtlijst voor terugkerende afspraak"
+
+#: 
+msgid "URL for approving the whole schedule"
+msgstr "URL voor het goedkeuren van de gehele planning"
+
